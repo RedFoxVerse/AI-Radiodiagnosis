@@ -1,0 +1,5 @@
+{
+  "name": "AI Radio-Diagnosis Assistant",
+  "description": "An AI-powered tool to analyze medical imaging scans (X-rays, CTs, MRIs, USGs) and generate diagnostic reports, detailed findings, and recommended action plans using the Gemini API.",
+  "requestFramePermissions": []
+}
